@@ -1,5 +1,7 @@
 ---
-# Title: Welcome to my Github Repository Pages
+title: Welcome to my Github Repository Pages
+layout: default
+---
 
 ## Description
 Welcome to my GitHub portfolio! This page showcases the projects I've been working on. Feel free to explore the repositories and reach out if you have any questions or collaboration ideas.
@@ -32,18 +34,17 @@ This repository contains PowerBI visualizations.
 ### Tableau Projects
 This repository contains Tableau dashboards that I have designed to analyze and visualize key insights from different data sources. The dashboard is built using Tableau Desktop.
 
-- **[View Repository](https://github.com/l-teefah/TableauDashboards)** - Brief description
-
+- **[View Repository](https://github.com/l-teefah/TableauDashboards)**
 
 ## Skills
 
-- Programming Languages: R, SQL, Python.
-- Data Visualiation Tools: Power BI, Tableau
+- Programming Languages: R, SQL, Python
+- Data Visualization Tools: Power BI, Tableau
 - Other tools: AWS Cloud Computing
 
 ## Contact
 
-- GitHub: [l-teefah]((https://github.com/l-teefah))
+- GitHub: [l-teefah](https://github.com/l-teefah)
 - LinkedIn: [Lateefah Yusuf](https://www.linkedin.com/in/lateefahyusuf/)
 - Email: lateefah_yusuf@yahoo.com
 
