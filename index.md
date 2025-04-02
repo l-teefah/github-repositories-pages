@@ -3,46 +3,44 @@ title: Welcome to my Github Repository Website
 layout: default
 ---
 
-## Description
+# Description
 Welcome to my GitHub repositories portfolio! This page showcases the projects I've been working on. Feel free to explore the repositories and reach out if you have any questions or collaboration ideas.
 
-## Featured Projects
+# Featured Projects
 
-### AWS Cloud Projects
+## [AWS Cloud Projects](https://github.com/l-teefah/AWS-Cloud-Projects)
 This repository contains hands-on guides and resources for working with various AWS services, including EC2, VPC, S3, IAM, Lambda, RDS, and more. It includes creating, moving and maintaining a database, hosting a website on AWS EC2 instance, load balancing, AWS CloudFormation, and using AWS Lambda for automation projects.
 
-- **Tech Stack**: SQL, Linux, Node.js, Python, Shell
-- **[View Repository](https://github.com/l-teefah/AWS-Cloud-Projects)**
+**Tools used**: SQL, Linux, Node.js, Python, Shell
 
-### Python Projects
+
+## [Python Projects](https://github.com/l-teefah/Python)
 This repository contains random python projects ranging from data cleaning and visualization to Machine Learning. 
 
-- **Tech Stack**: Python, Jupyter Notebook
-- **[View Repository](https://github.com/l-teefah/Python)**
+**Tools used**: Python, Jupyter Notebook
 
-### R Project
+
+## [R Project](https://github.com/l-teefah/R-projects)
 This repository contains random R projects ranging from map creation, 3D interactive visualization, automated regression report, Machine Learning and Sentiment analysis. 
 
-- **Tech Stack**: R
-- **[View Repository](https://github.com/l-teefah/R-projects)**
+**Tools used**: R
 
-### Power BI
+
+## [Power BI](https://github.com/l-teefah/PowerBIDashboards)
 This repository contains PowerBI visualizations. 
 
-- **[View Repository](https://github.com/l-teefah/PowerBIDashboards)**
 
-### Tableau Projects
+## [Tableau Projects](https://github.com/l-teefah/TableauDashboards)
 This repository contains Tableau dashboards that I have designed to analyze and visualize key insights from different data sources. The dashboard is built using Tableau Desktop.
 
-- **[View Repository](https://github.com/l-teefah/TableauDashboards)**
 
-## Skills
+# Skills
 
 - Programming Languages: R, SQL, Python
 - Data Visualization Tools: Power BI, Tableau
 - Other tools: AWS Cloud Computing
 
-## Contact
+# Contact
 
 - GitHub: [l-teefah](https://github.com/l-teefah)
 - LinkedIn: [Lateefah Yusuf](https://www.linkedin.com/in/lateefahyusuf/)
