@@ -1,6 +1,7 @@
 ---
-title: Welcome to my Github Repository Pages
+# Title: Welcome to my Github Repository Pages
 
+## Description
 Welcome to my GitHub portfolio! This page showcases the projects I've been working on. Feel free to explore the repositories and reach out if you have any questions or collaboration ideas.
 
 ## Featured Projects
@@ -42,7 +43,7 @@ This repository contains Tableau dashboards that I have designed to analyze and 
 
 ## Contact
 
-- GitHub: [@l-teefah]((https://github.com/l-teefah))
+- GitHub: [l-teefah]((https://github.com/l-teefah))
 - LinkedIn: [Lateefah Yusuf](https://www.linkedin.com/in/lateefahyusuf/)
 - Email: lateefah_yusuf@yahoo.com
 
