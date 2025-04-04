@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Description
 Welcome to my GitHub repositories portfolio! This page showcases the projects I've been working on. Feel free to explore the repositories and reach out if you have any questions or collaboration ideas.
 
 # Featured Projects
