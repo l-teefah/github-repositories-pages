@@ -1,5 +1,4 @@
 ---
-title: Welcome to my Github Repository Website
 layout: default
 ---
 
@@ -20,7 +19,7 @@ This repository contains random python projects ranging from data cleaning and v
 **Tools used**: Python, Jupyter Notebook
 
 
-## [R Project](https://github.com/l-teefah/R-projects)
+## [R Projects](https://github.com/l-teefah/R-projects)
 This repository contains random R projects ranging from map creation, 3D interactive visualization, automated regression report, Machine Learning and Sentiment analysis. 
 
 **Tools used**: R
